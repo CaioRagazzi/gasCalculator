@@ -117,7 +117,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         onPressed: calcular,
                       ),
                     ),
-                    Padding(
+                    Container(
                       padding: const EdgeInsets.only(top: 50, bottom: 50),
                       child: calculado
                           ? Text(

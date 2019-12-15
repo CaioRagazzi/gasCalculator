@@ -1,4 +1,4 @@
-package com.example.gas_calculator
+package com.caioragazzi.gas_calculator
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
